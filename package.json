@@ -1,0 +1,17 @@
+{
+  "name": "navbarhide",
+  "title": "Hide Navbar",
+  "id": "jid1-FIhgyxQXaBVUUw",
+  "description": "Hide the navbar via a hotkey.",
+  "author": "Zbyněk Winkler",
+  "license": "MPL 2.0",
+  "version": "1.0",
+  "homepage": "http://github.com/zwn/navbarhide",
+  "permissions": { "private-browsing": true },
+  "preferences": [{
+        "name": "hotkey",
+        "title": "Hotkey",
+        "type": "string",
+        "value": "F2"
+    }]
+}
