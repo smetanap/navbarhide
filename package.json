@@ -2,7 +2,7 @@
   "name": "navbarhide",
   "title": "Hide Navbar",
   "id": "jid1-FIhgyxQXaBVUUw",
-  "description": "Hide the navbar via a hotkey.",
+  "description": "Hide navbar via hotkey.",
   "author": "Zbyněk Winkler",
   "license": "MPL 2.0",
   "version": "1.0",
